@@ -1,0 +1,16 @@
+C:\Users\ikkeo\source\repos\GætEtTal\GætEtTal\bin\Debug\net5.0\GætEtTal.exe
+C:\Users\ikkeo\source\repos\GætEtTal\GætEtTal\bin\Debug\net5.0\GætEtTal.deps.json
+C:\Users\ikkeo\source\repos\GætEtTal\GætEtTal\bin\Debug\net5.0\GætEtTal.runtimeconfig.json
+C:\Users\ikkeo\source\repos\GætEtTal\GætEtTal\bin\Debug\net5.0\GætEtTal.runtimeconfig.dev.json
+C:\Users\ikkeo\source\repos\GætEtTal\GætEtTal\bin\Debug\net5.0\GætEtTal.dll
+C:\Users\ikkeo\source\repos\GætEtTal\GætEtTal\bin\Debug\net5.0\ref\GætEtTal.dll
+C:\Users\ikkeo\source\repos\GætEtTal\GætEtTal\bin\Debug\net5.0\GætEtTal.pdb
+C:\Users\ikkeo\source\repos\GætEtTal\GætEtTal\obj\Debug\net5.0\GætEtTal.csproj.AssemblyReference.cache
+C:\Users\ikkeo\source\repos\GætEtTal\GætEtTal\obj\Debug\net5.0\GætEtTal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikkeo\source\repos\GætEtTal\GætEtTal\obj\Debug\net5.0\GætEtTal.AssemblyInfoInputs.cache
+C:\Users\ikkeo\source\repos\GætEtTal\GætEtTal\obj\Debug\net5.0\GætEtTal.AssemblyInfo.cs
+C:\Users\ikkeo\source\repos\GætEtTal\GætEtTal\obj\Debug\net5.0\GætEtTal.csproj.CoreCompileInputs.cache
+C:\Users\ikkeo\source\repos\GætEtTal\GætEtTal\obj\Debug\net5.0\GætEtTal.dll
+C:\Users\ikkeo\source\repos\GætEtTal\GætEtTal\obj\Debug\net5.0\ref\GætEtTal.dll
+C:\Users\ikkeo\source\repos\GætEtTal\GætEtTal\obj\Debug\net5.0\GætEtTal.pdb
+C:\Users\ikkeo\source\repos\GætEtTal\GætEtTal\obj\Debug\net5.0\GætEtTal.genruntimeconfig.cache
