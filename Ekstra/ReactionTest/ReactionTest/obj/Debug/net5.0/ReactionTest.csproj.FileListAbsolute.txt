@@ -1,0 +1,16 @@
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Ekstra\ReactionTest\ReactionTest\bin\Debug\net5.0\ReactionTest.exe
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Ekstra\ReactionTest\ReactionTest\bin\Debug\net5.0\ReactionTest.deps.json
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Ekstra\ReactionTest\ReactionTest\bin\Debug\net5.0\ReactionTest.runtimeconfig.json
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Ekstra\ReactionTest\ReactionTest\bin\Debug\net5.0\ReactionTest.runtimeconfig.dev.json
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Ekstra\ReactionTest\ReactionTest\bin\Debug\net5.0\ReactionTest.dll
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Ekstra\ReactionTest\ReactionTest\bin\Debug\net5.0\ref\ReactionTest.dll
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Ekstra\ReactionTest\ReactionTest\bin\Debug\net5.0\ReactionTest.pdb
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Ekstra\ReactionTest\ReactionTest\obj\Debug\net5.0\ReactionTest.csproj.AssemblyReference.cache
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Ekstra\ReactionTest\ReactionTest\obj\Debug\net5.0\ReactionTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Ekstra\ReactionTest\ReactionTest\obj\Debug\net5.0\ReactionTest.AssemblyInfoInputs.cache
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Ekstra\ReactionTest\ReactionTest\obj\Debug\net5.0\ReactionTest.AssemblyInfo.cs
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Ekstra\ReactionTest\ReactionTest\obj\Debug\net5.0\ReactionTest.csproj.CoreCompileInputs.cache
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Ekstra\ReactionTest\ReactionTest\obj\Debug\net5.0\ReactionTest.dll
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Ekstra\ReactionTest\ReactionTest\obj\Debug\net5.0\ref\ReactionTest.dll
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Ekstra\ReactionTest\ReactionTest\obj\Debug\net5.0\ReactionTest.pdb
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Ekstra\ReactionTest\ReactionTest\obj\Debug\net5.0\ReactionTest.genruntimeconfig.cache
