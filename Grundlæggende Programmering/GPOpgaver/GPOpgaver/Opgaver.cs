@@ -32,7 +32,7 @@ namespace GPOpgaver
             x = y;
             y = z;
             z = t;
-            Console.WriteLine(x + y + z);
+            Console.WriteLine(x.ToString() + y.ToString() + z.ToString());
         }
         /*
          * Introduktion til Algoritmer
@@ -62,7 +62,16 @@ namespace GPOpgaver
          */
         public static int StepsInLinearSearch(int searchFor, int[] intergerArray)
         {
-            throw new NotImplementedException();
+            int count = 0;
+            for (int i = 0; i < intergerArray.Length - 1; i++)
+            {
+                count++;
+                if (searchFor == intergerArray[i])
+                {
+                    break;
+                }
+            }
+            return count;
         }
         /*
          * Introduktion til Algoritmer
