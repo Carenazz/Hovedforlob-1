@@ -12,6 +12,7 @@ namespace GPOpgaver
             Opgaver.StepsInLinearSearch(9, intArray);
             Opgaver.StepsInLinearSearch(11, intArray);
             Opgaver.StepsInLinearSearch(5, intArray);
+            Console.ReadLine();
         }
     }
 }

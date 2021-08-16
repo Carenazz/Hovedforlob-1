@@ -29,10 +29,10 @@ namespace GPOpgaver
         public static void InterchangeTriple(ref int x, ref int y, ref int z)
         {
             int t = x;
-            x = y;
-            y = z;
-            z = t;
-            Console.WriteLine(x.ToString() + y.ToString() + z.ToString());
+            x = z;
+            z = y;
+            y = t;
+            Console.WriteLine(x + y + z);
         }
         /*
          * Introduktion til Algoritmer
@@ -63,7 +63,7 @@ namespace GPOpgaver
         public static int StepsInLinearSearch(int searchFor, int[] intergerArray)
         {
             int count = 0;
-            for (int i = 0; i < intergerArray.Length - 1; i++)
+            for (int i = 0; i < intergerArray.Length; i++)
             {
                 count++;
                 if (searchFor == intergerArray[i])
@@ -71,6 +71,7 @@ namespace GPOpgaver
                     break;
                 }
             }
+            Console.WriteLine(count);
             return count;
         }
         /*
@@ -82,7 +83,7 @@ namespace GPOpgaver
          */
         public static int StepsInBinarySearch(int[] integerArray, int arrayStart, int arrayEnd, int searchFor)
         {
-
+            throw new NotImplementedException();
         }
         /*
          * Introduktion til Algoritmer
