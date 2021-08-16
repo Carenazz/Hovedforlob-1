@@ -82,8 +82,7 @@ namespace GPOpgaver
          */
         public static int StepsInBinarySearch(int[] integerArray, int arrayStart, int arrayEnd, int searchFor)
         {
-            throw new NotImplementedException();
-            //Write your solution here
+
         }
         /*
          * Introduktion til Algoritmer
