@@ -22,12 +22,13 @@ namespace BeskrivDatatype
         static unsafe void DisplaySizeOf<T>() where T : unmanaged
         {
             Console.WriteLine($"Size of {typeof(T)} is {sizeof(T)} in byte");
-            for (int i = 0; i < sizeof(T); i++)
+            for (int i = 0; i < sizeof(T) / 2; i++)
             {
-                Console.WriteLine(new string('-', 10));
-                Console.WriteLine("| 1 byte |");
-                Console.WriteLine(new string('-', 10));
+                Console.WriteLine(new string('-', 20));
+                Console.WriteLine("| 1 byte || 1 byte |");
+                Console.WriteLine(new string('-', 20));
             }
+            Console.ReadLine();
         }
 
         static unsafe void ReturnBitOf<T>() where T : unmanaged
