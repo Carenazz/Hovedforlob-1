@@ -1,0 +1,16 @@
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\BeskrivDatatype\BeskrivDatatype\bin\Debug\net5.0\BeskrivDatatype.exe
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\BeskrivDatatype\BeskrivDatatype\bin\Debug\net5.0\BeskrivDatatype.deps.json
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\BeskrivDatatype\BeskrivDatatype\bin\Debug\net5.0\BeskrivDatatype.runtimeconfig.json
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\BeskrivDatatype\BeskrivDatatype\bin\Debug\net5.0\BeskrivDatatype.runtimeconfig.dev.json
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\BeskrivDatatype\BeskrivDatatype\bin\Debug\net5.0\BeskrivDatatype.dll
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\BeskrivDatatype\BeskrivDatatype\bin\Debug\net5.0\ref\BeskrivDatatype.dll
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\BeskrivDatatype\BeskrivDatatype\bin\Debug\net5.0\BeskrivDatatype.pdb
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\BeskrivDatatype\BeskrivDatatype\obj\Debug\net5.0\BeskrivDatatype.csproj.AssemblyReference.cache
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\BeskrivDatatype\BeskrivDatatype\obj\Debug\net5.0\BeskrivDatatype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\BeskrivDatatype\BeskrivDatatype\obj\Debug\net5.0\BeskrivDatatype.AssemblyInfoInputs.cache
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\BeskrivDatatype\BeskrivDatatype\obj\Debug\net5.0\BeskrivDatatype.AssemblyInfo.cs
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\BeskrivDatatype\BeskrivDatatype\obj\Debug\net5.0\BeskrivDatatype.csproj.CoreCompileInputs.cache
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\BeskrivDatatype\BeskrivDatatype\obj\Debug\net5.0\BeskrivDatatype.dll
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\BeskrivDatatype\BeskrivDatatype\obj\Debug\net5.0\ref\BeskrivDatatype.dll
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\BeskrivDatatype\BeskrivDatatype\obj\Debug\net5.0\BeskrivDatatype.pdb
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\BeskrivDatatype\BeskrivDatatype\obj\Debug\net5.0\BeskrivDatatype.genruntimeconfig.cache
