@@ -51,7 +51,6 @@ namespace GPOpgaver
             {
                 return false;
             }
-            // Note. Lav måske en ting som ikke er et palindrome.
         }
         /*
          * Introduktion til Algoritmer
@@ -83,7 +82,26 @@ namespace GPOpgaver
          */
         public static int StepsInBinarySearch(int[] integerArray, int arrayStart, int arrayEnd, int searchFor)
         {
-            throw new NotImplementedException();
+            int count = 0;
+            int mid = (arrayStart + arrayEnd) / 2;
+            while (count < arrayEnd)
+            {
+                if (searchFor == integerArray[mid])
+                {
+                    return count;
+                }
+                else if (searchFor < integerArray[mid])
+                {
+                    mid -= 1;
+                    count++;
+                }
+                else if (searchFor > integerArray[mid])
+                {
+                    mid += 1;
+                    count++;
+                }
+            }
+            return count;
         }
         /*
          * Introduktion til Algoritmer
