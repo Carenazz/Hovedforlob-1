@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace H1_ERP
 {
-    public class Inventory
+    class Customers
     {
-        List<Item> inv = new List<Item>();
-        public void PrintTable()
-        {
-
-        }
     }
 }

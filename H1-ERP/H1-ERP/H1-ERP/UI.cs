@@ -8,6 +8,7 @@ namespace H1_ERP
 {
     public class UI
     {
+        Menu menu = new Menu();
         public void WriteText(string info)
         {
             Console.WriteLine(info);
@@ -40,14 +41,11 @@ namespace H1_ERP
             switch (choice)
             {
                 case "1":
+                    menu.CustomerMenu("");
                     break;
                 case "2":
+                    menu.ItemMenu("");
                     break;
-                case "3":
-                    break;
-                case "4":
-                    break;
-
                 default:
                     WriteText("Isn't a valid choice in the menu");
                     break;

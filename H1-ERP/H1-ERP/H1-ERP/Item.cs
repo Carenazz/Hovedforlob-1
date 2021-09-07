@@ -19,19 +19,42 @@ namespace H1_ERP
 
         public Item(int ID, string name, int quantity, double price)
         {
-            itemID = ID;
-            itemName = name;
-            itemQuantity = quantity;
-            itemPrice = price;
+            ItemID = ID;
+            ItemName = name;
+            ItemQuantity = quantity;
+            ItemPrice = price;
         }
 
         public void Print()
         {
             Console.WriteLine(new String('-', 25));
-            Console.WriteLine("ID: " + itemID +
-                              "\nName: " + itemName +
-                              "\nQuantity: " + itemQuantity +
-                              "\nPrice: " + itemPrice);
+            Console.WriteLine("ID: " + ItemID +
+                              "\nName: " + ItemName +
+                              "\nQuantity: " + ItemQuantity +
+                              "\nPrice: " + ItemPrice);
+        }
+
+        public int ItemID
+        {
+            get;
+            private set;
+        }
+
+        public string ItemName
+        {
+            get;
+            set;
+        }
+
+        public int ItemQuantity
+        {
+            get;
+            protected set;
+        }
+        public double ItemPrice
+        {
+            get;
+            protected set;
         }
     }
 }
