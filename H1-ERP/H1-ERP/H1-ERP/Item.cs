@@ -9,52 +9,60 @@ namespace H1_ERP
     public class Item : Inventory
     {
         string itemName;
-        int itemID, itemQuantity;
+        private int itemID = 1; 
+        protected int itemQuantity;
         double itemPrice;
 
         public Item()
         {
-
+            itemID++;
         }
 
         public Item(int ID, string name, int quantity, double price)
         {
-            ItemID = ID;
+            itemID = ID;
             ItemName = name;
             ItemQuantity = quantity;
             ItemPrice = price;
+            itemID++;
         }
 
         public void Print()
         {
             Console.WriteLine(new String('-', 25));
-            Console.WriteLine("ID: " + ItemID +
+            Console.WriteLine("ID: " + itemID +
                               "\nName: " + ItemName +
                               "\nQuantity: " + ItemQuantity +
                               "\nPrice: " + ItemPrice);
         }
 
-        public int ItemID
-        {
-            get;
-            private set;
-        }
-
         public string ItemName
         {
-            get;
-            set;
+            get { return itemName; }
+            set
+            {
+                itemName = value;
+            }
         }
 
         public int ItemQuantity
         {
-            get;
-            protected set;
+            get { return itemQuantity; }
+            protected set
+            {
+                itemQuantity = value;
+            }
         }
         public double ItemPrice
         {
-            get;
-            protected set;
+            get { return itemPrice; }
+            protected set
+            {
+                if (value != 0)
+                {
+                    itemPrice = value;
+                }
+            }
         }
     }
 }

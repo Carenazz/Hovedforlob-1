@@ -11,12 +11,28 @@ namespace H1_ERP
         UI ui = new UI();
         public void CustomerMenu()
         {
-            ui.WriteText("");
+            ui.WriteText("1: View items \n2: Select an item \n3: Remove an item from the cart \n4: Checkout\n" +
+                "Select an option:");
+            int check = ui.GetIntFromUser(Console.ReadLine());
+            switch (check)
+            {
+                case 1:
+                    break;
+                case 2:
+                    break;
+                case 3:
+                    break;
+                case 4:
+                    break;
+                default:
+                    break;
+            }
         }
 
         public void ItemMenu()
         {
-            ui.WriteText("1: Select an item \n2: Create an item \n3: Modify an item \n4: Remove an item");
+            ui.WriteText("1: Select an item \n2: Create an item \n3: Modify an item \n4: Remove an item\n" +
+                "Select an option:");
             int check = ui.GetIntFromUser(Console.ReadLine());
             switch (check)
             {
