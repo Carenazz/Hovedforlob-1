@@ -61,5 +61,9 @@ namespace H1_ERP
                 Console.WriteLine("Is not a valid number, try again.");
                 return false;
         }
+        public bool Test(string check)
+        {
+            return IsValidNumber(check);
+        }
     }
 }

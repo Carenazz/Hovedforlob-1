@@ -9,6 +9,7 @@ namespace H1_ERP
     class Menu
     {
         UI ui = new UI();
+        Inventory inv = new Inventory();
         public void CustomerMenu()
         {
             ui.WriteText("1: View items \n2: Select an item \n3: Remove an item from the cart \n4: Checkout\n" +

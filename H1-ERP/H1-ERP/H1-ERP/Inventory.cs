@@ -8,10 +8,13 @@ namespace H1_ERP
 {
     public class Inventory
     {
-        List<Item> inv = new List<Item>();
+        static public List<Item> invList = new List<Item>();
         public void PrintTable()
         {
-
+            foreach (var item in invList)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }

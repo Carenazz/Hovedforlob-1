@@ -5,12 +5,12 @@ using System;
 namespace UnitTest_ERP
 {
     [TestClass]
-    public class UnitTest1
+    public class UnitTest
     {
         [Fact]
         public void TestOne()
         {
-
+            
         }
     }
 }
