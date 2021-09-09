@@ -7,6 +7,7 @@ namespace TestProject1
     {
         H1_ERP.UI ui = new H1_ERP.UI();
         [Fact]
+        // Testing the "IsValidNum" Boolean Method from UI.
         public void Test1()
         {
             Assert.False(ui.Test("Hej"));

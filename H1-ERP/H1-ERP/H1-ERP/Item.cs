@@ -18,6 +18,7 @@ namespace H1_ERP
             itemID++;
         }
 
+        // Item constructor class, when making an item.
         public Item(int ID, string name, int quantity, double price)
         {
             itemID = ID;
@@ -27,6 +28,7 @@ namespace H1_ERP
             itemID++;
         }
 
+        // Prints out the items, ID, name, quantity and price.
         public void Print()
         {
             Console.WriteLine(new String('-', 25));
@@ -36,6 +38,7 @@ namespace H1_ERP
                               "\nPrice: " + ItemPrice);
         }
 
+        // Properties for the item variables.
         public string ItemName
         {
             get { return itemName; }

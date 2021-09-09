@@ -10,6 +10,8 @@ namespace H1_ERP
     {
         UI ui = new UI();
         Inventory inv = new Inventory();
+        
+        // A menu for customers, viewing, selecting and adding items to a cart.
         public void CustomerMenu()
         {
             ui.WriteText("1: View items \n2: Select an item \n3: Remove an item from the cart \n4: Checkout\n" +
@@ -30,6 +32,7 @@ namespace H1_ERP
             }
         }
 
+        // A menu over the item options and items.
         public void ItemMenu()
         {
             ui.WriteText("1: Select an item \n2: Create an item \n3: Modify an item \n4: Remove an item\n" +

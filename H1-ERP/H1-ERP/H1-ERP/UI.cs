@@ -8,11 +8,13 @@ namespace H1_ERP
 {
     public class UI
     {
+        // Prints out text - Similar to writeline
         public void WriteText(string info)
         {
             Console.WriteLine(info);
         }
 
+        // Gets input from user in the form of a string.
         public string GetStringFromUser(string info)
         {
             string getString;
@@ -21,6 +23,7 @@ namespace H1_ERP
             return getString;
         }
 
+        // Gets input from the user and checks if it is only numbers.
         public int GetIntFromUser(string info)
         {
             string userInput;
@@ -52,7 +55,7 @@ namespace H1_ERP
             }
         }
 
-
+        // Checks if the string is only numbers and isn't null.
         private bool IsValidNumber(string check)
         {
             if (check.All(char.IsDigit) && !string.IsNullOrWhiteSpace(check))
