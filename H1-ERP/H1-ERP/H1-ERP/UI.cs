@@ -31,8 +31,18 @@ namespace H1_ERP
             do
             {
                 userInput = Console.ReadLine();
-            } while (IsValidNumber(userInput));
+            } while (!IsValidNumber(userInput));
             return Convert.ToInt32(userInput);
+        }
+        public double GetDoubleFromUser(string info)
+        {
+            string userInput;
+            Console.WriteLine(info);
+            do
+            {
+                userInput = Console.ReadLine();
+            } while (!IsValidNumber(userInput));
+            return Convert.ToDouble(userInput);
         }
 
         public void GetMenu(string header,string menuChoices)

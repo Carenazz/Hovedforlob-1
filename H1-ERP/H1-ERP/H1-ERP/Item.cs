@@ -9,23 +9,24 @@ namespace H1_ERP
     public class Item : Inventory
     {
         string itemName;
-        private int itemID = 1; 
-        protected int itemQuantity;
+        private int itemID = 1;
+        static private int nextItemID = 1;
+        int itemQuantity;
         double itemPrice;
 
         public Item()
         {
-            itemID++;
+            nextItemID++;
         }
 
         // Item constructor class, when making an item.
-        public Item(int ID, string name, int quantity, double price)
+        public Item(string name, int quantity, double price)
         {
-            itemID = ID;
+            itemID = nextItemID;
             ItemName = name;
             ItemQuantity = quantity;
             ItemPrice = price;
-            itemID++;
+            nextItemID++;
         }
 
         // Prints out the items, ID, name, quantity and price.
@@ -39,6 +40,10 @@ namespace H1_ERP
         }
 
         // Properties for the item variables.
+        public int ItemID
+        {
+            get { return itemID; }
+        }
         public string ItemName
         {
             get { return itemName; }
@@ -51,7 +56,7 @@ namespace H1_ERP
         public int ItemQuantity
         {
             get { return itemQuantity; }
-            protected set
+            set
             {
                 itemQuantity = value;
             }
@@ -59,7 +64,7 @@ namespace H1_ERP
         public double ItemPrice
         {
             get { return itemPrice; }
-            protected set
+            set
             {
                 if (value != 0)
                 {

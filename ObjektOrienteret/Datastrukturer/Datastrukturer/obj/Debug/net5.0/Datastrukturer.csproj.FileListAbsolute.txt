@@ -1,0 +1,16 @@
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\ObjektOrienteret\Datastrukturer\Datastrukturer\bin\Debug\net5.0\Datastrukturer.exe
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\ObjektOrienteret\Datastrukturer\Datastrukturer\bin\Debug\net5.0\Datastrukturer.deps.json
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\ObjektOrienteret\Datastrukturer\Datastrukturer\bin\Debug\net5.0\Datastrukturer.runtimeconfig.json
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\ObjektOrienteret\Datastrukturer\Datastrukturer\bin\Debug\net5.0\Datastrukturer.runtimeconfig.dev.json
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\ObjektOrienteret\Datastrukturer\Datastrukturer\bin\Debug\net5.0\Datastrukturer.dll
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\ObjektOrienteret\Datastrukturer\Datastrukturer\bin\Debug\net5.0\ref\Datastrukturer.dll
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\ObjektOrienteret\Datastrukturer\Datastrukturer\bin\Debug\net5.0\Datastrukturer.pdb
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\ObjektOrienteret\Datastrukturer\Datastrukturer\obj\Debug\net5.0\Datastrukturer.csproj.AssemblyReference.cache
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\ObjektOrienteret\Datastrukturer\Datastrukturer\obj\Debug\net5.0\Datastrukturer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\ObjektOrienteret\Datastrukturer\Datastrukturer\obj\Debug\net5.0\Datastrukturer.AssemblyInfoInputs.cache
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\ObjektOrienteret\Datastrukturer\Datastrukturer\obj\Debug\net5.0\Datastrukturer.AssemblyInfo.cs
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\ObjektOrienteret\Datastrukturer\Datastrukturer\obj\Debug\net5.0\Datastrukturer.csproj.CoreCompileInputs.cache
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\ObjektOrienteret\Datastrukturer\Datastrukturer\obj\Debug\net5.0\Datastrukturer.dll
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\ObjektOrienteret\Datastrukturer\Datastrukturer\obj\Debug\net5.0\ref\Datastrukturer.dll
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\ObjektOrienteret\Datastrukturer\Datastrukturer\obj\Debug\net5.0\Datastrukturer.pdb
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\ObjektOrienteret\Datastrukturer\Datastrukturer\obj\Debug\net5.0\Datastrukturer.genruntimeconfig.cache
